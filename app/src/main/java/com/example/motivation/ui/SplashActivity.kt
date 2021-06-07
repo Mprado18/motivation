@@ -1,4 +1,4 @@
-package com.example.motivation
+package com.example.motivation.ui
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
