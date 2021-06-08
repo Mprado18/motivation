@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Motivation</string>
+    <string name="lets_begin">Vamos começar?</string>
+    <string name="whats_your_name">Qual o seu nome?</string>
+    <string name="save">Salvar</string>
+    <string name="all">all</string>
+    <string name="happy">happy</string>
+    <string name="sun">sun</string>
+    <string name="phrase">Frase</string>
+    <string name="new_phrase">Nova Frase</string>
 </resources>
